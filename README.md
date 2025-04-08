@@ -1,6 +1,9 @@
 # 🚜 FarmerSetu Portal  
 🌐 A Seller Appointment Web App built using **MongoDB 🟢 | Express ⚙️ | ReactJS ⚛️ | Node.js 🟤**
 
+# ScreenShots:
+  # [Home Page](WhatsApp Image 2025-04-06 at 18.14.22_675f20d6.jpg)
+  # [Categories](WhatsApp Image 2025-04-06 at 18.14.22_675f20d6.jpg)
 ---
 
 ## 💡 About This Project  
